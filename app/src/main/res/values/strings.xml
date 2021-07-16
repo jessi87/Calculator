@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    
+    <string name="calculator_input_button_0">0</string>
+    <string name="calculator_input_button_1">1</string>
+    <string name="calculator_input_button_2">2</string>
+    <string name="calculator_input_button_3">3</string>
+    <string name="calculator_input_button_4">4</string>
+    <string name="calculator_input_button_5">5</string>
+    <string name="calculator_input_button_6">6</string>
+    <string name="calculator_input_button_7">7</string>
+    <string name="calculator_input_button_8">8</string>
+    <string name="calculator_input_button_9">9</string>
+    
+    <string name="calculator_operator_button_plus">+</string>
+    <string name="calculator_operator_button_minus">-</string>
+    <string name="calculator_operator_button_multiply">x</string>
+    <string name="calculator_operator_button_divide">/</string>
+    
+    <string name="calculator_util_button_clear">C</string>
+    <string name="calculator_util_button_plus_minus">+/-</string>
+    <string name="calculator_util_button_percent">%</string>
+    <string name="calculator_util_button_decimal_point">.</string>
+    <string name="calculator_util_button_bracket">()</string>
+    
+    <string name="calculator_button_result">=</string>
+    
+    
+</resources>
